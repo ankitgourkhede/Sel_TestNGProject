@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="49656" started-at="2018-08-02T23:10:12Z" finished-at="2018-08-02T23:11:02Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="49656" started-at="2018-08-02T23:10:12Z" finished-at="2018-08-02T23:11:02Z">
+      <class name="TestNGpkg.FirstTestNGFile">
+        <test-method status="PASS" signature="f()[pri:0, instance:TestNGpkg.FirstTestNGFile@769c9116]" name="f" duration-ms="49643" started-at="2018-08-02T23:10:12Z" finished-at="2018-08-02T23:11:02Z">
+        </test-method> <!-- f -->
+      </class> <!-- TestNGpkg.FirstTestNGFile -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
